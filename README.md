@@ -6,7 +6,7 @@ I'm interested in ergonomics & UI/UX and love❤️ the works that make people's
 
 What I learned is recorded on my blog https://jinsol.kim and it would be a pleasure if you visit there.
 
-Eventhough I majored in not CS, but Psychology & Design, I believe those things will be connected all together.
+Eventhough I majored in Psychology & Design, I believe those things will be connected with development all together.
 
 > You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.
 >
