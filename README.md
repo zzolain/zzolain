@@ -18,9 +18,9 @@ Eventhough I majored in Psychology & Design, I believe those things will be conn
 [<img src="https://img.shields.io/badge/Javascript-language-F7DF1E?logo=javascript" />](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 [<img src="https://img.shields.io/badge/Swift-language-F05138?logo=swift" />](https://www.swift.org/)
 
-[<img src="https://img.shields.io/badge/React-language-61DAFB?logo=react" />](https://reactjs.org)
+[<img src="https://img.shields.io/badge/React-Web%20%26%20Mobile-61DAFB?logo=react" />](https://reactjs.org)
 [<img src="https://img.shields.io/badge/%F0%9F%92%85%20styled--components%26emotion-style-DB7093" />](https://styled-components.com/)
 
-[<img src="https://img.shields.io/badge/Jira-language-0052CC?logo=jira" />](https://www.atlassian.com/ko/software/jira)
-[<img src="https://img.shields.io/badge/Confluence-language-172B4D?logo=confluence" />](https://www.atlassian.com/ko/software/confluence)
-[<img src="https://img.shields.io/badge/Notion-language-000000?logo=notion" />](https://www.notion.so)
+[<img src="https://img.shields.io/badge/Jira-communication-0052CC?logo=jira" />](https://www.atlassian.com/ko/software/jira)
+[<img src="https://img.shields.io/badge/Confluence-communication-172B4D?logo=confluence" />](https://www.atlassian.com/ko/software/confluence)
+[<img src="https://img.shields.io/badge/Notion-communication-000000?logo=notion" />](https://www.notion.so)
