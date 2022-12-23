@@ -12,3 +12,5 @@ Eventhough I majored in Psychology & Design, I believe those things will be conn
 >
 >\- Steve Jobs
 >
+### Skills
+<img src="https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=html5&logoColor=white">
